@@ -191,3 +191,7 @@ GPT-3 has been used to write applications that create images based on text capti
 ## Conclusion
 
 AI for software development appears promising but is not going to replace software engineers anytime soon. However, it can help them become better and more productive. It can also help in modernizing applications written with older technology stacks. AI, in general, can be used for various applications at Delta but with caution as these technologies are nascent, and many will not live up to their promises (Dr Andrew Ng gives prudent advice on AI rollout in an enterprise: [What AI Can or Cannot Do](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now), [How to Choose First AI Project](https://hbr.org/2019/02/how-to-choose-your-first-ai-project)).
+
+---
+
+© 2021 Vasu Vuppala. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code samples licensed under the [MIT License](https://opensource.org/licenses/MIT).
